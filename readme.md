@@ -15,6 +15,7 @@
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](https://www.loom.com/share/e8258696c37649a19597c5c8f6544c59)
+[GitHub](https://github.com/Queen-ZM/StudentCRDS)
 
 # Development Environment
 
